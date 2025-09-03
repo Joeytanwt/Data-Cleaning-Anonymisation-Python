@@ -1,7 +1,7 @@
 # Data Cleaning & Anonymisation with python
 
 ## Overview
-This project demonstrates data cleaning and anonymisation using python for a synthetic customer dataset containing sensitive identifiers (e.g., NRIC), personal names, and birth dates.
+This project demonstrates data cleaning and anonymisation using python for a synthetic customer dataset containing sensitive identifiers (e.g., NRIC, personal names, and birth dates).
 
 ## Steps
 * Consolidates multi-source tables with inconsistent columns (e.g., Member_Name vs Given/Family vs First/Last) into a unified schema.
