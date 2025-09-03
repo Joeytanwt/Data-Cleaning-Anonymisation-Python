@@ -1,4 +1,4 @@
-# Data Cleaning & Anonymisation with python
+# Data Cleaning & Anonymisation with Python
 
 ## Overview
 This project demonstrates data cleaning and anonymisation using python for a synthetic customer dataset containing sensitive identifiers (e.g., NRIC, personal names, and birth dates).
